@@ -2,7 +2,7 @@
 
 // Defines Main Function
 int main(){
-	renderSquare(5, 5, false);
+	renderSquare(15, 10, true);
 
 	return 0;
 }
